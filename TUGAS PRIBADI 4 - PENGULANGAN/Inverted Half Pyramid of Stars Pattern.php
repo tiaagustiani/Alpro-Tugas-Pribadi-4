@@ -12,3 +12,5 @@ for ($c=$jumlah; $c >=$a ; $c-=1) {
 
 echo "<br/>";
 }
+
+?>
