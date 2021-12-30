@@ -1,5 +1,4 @@
-#include <stdio.h>
-#include<conio.h>
+#include <iostream>
 
 int main() {
    int i, space, k, rows = 5;
